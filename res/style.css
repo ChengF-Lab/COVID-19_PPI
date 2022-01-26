@@ -1,0 +1,6 @@
+html, body {font: 14px Arial, Helvetica, sans-serif;width: 100%;height: 100%;margin: 0;padding: 0}
+
+#cy {position: absolute;left: 0;right: 200px;top: 0;bottom: 0}
+#info {position: absolute;right: 0;width: 200px;top: 0;bottom: 0;background: #f8f8f8;padding: 20px}
+#cover {position: absolute;left: 0;right: 0;top: 0;bottom: 0;background: #fff;z-index: 1024}
+#loading {position: relative; top: 48%;left: 48%}
